@@ -1,5 +1,5 @@
 public class A {
-    public void testA(){
+    public void test(){
         System.out.println("Hello from Class A.");
     }
     @Deprecated
