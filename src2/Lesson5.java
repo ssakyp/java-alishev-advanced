@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Lesson5 {
     public static void main(String[] args) {
-        //ist<Integer> linkedList = new LinkedList<>();
+        //List<Integer> linkedList = new LinkedList<>();
         MyLinkedList linkedList = new MyLinkedList();
         linkedList.add(1);
         linkedList.add(2);
